@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+
+    background-color: lavender;
+
+    font-size: 33px;
+    color: gold;
+}
+h1 {
+    color: cornflowerblue;
+}
+p {
+    color: lightblue;
+}
+#myDiv {
+    font-size: 36px;
+}
